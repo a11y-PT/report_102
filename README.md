@@ -1,5 +1,5 @@
 ---
-website: "Mecanismo Nacional de Monitorização da Implementação da Convenção sobre os Direitos das Pessoas com Deficiência (Me-CDPD)"          # Entre as aspas escreve o nome do website
+website: "Me-CDPD - Mecanismo Nacional de Monitorização da Implementação da Convenção sobre os Direitos das Pessoas com Deficiência"          # Entre as aspas escreve o nome do website
 date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://me-cdpd.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://me-cdpd.pt/declaracao-de-acessibilidade-e-usabilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
