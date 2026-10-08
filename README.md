@@ -3,6 +3,7 @@ website: "Me-CDPD - Mecanismo Nacional de Monitorização da Implementação da 
 date: "14/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://me-cdpd.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://me-cdpd.pt/declaracao-de-acessibilidade-e-usabilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+a11y_statement_date: "dd/mm/aaaa"  # Entre as aspas escreve a data da Declaração de Acessibilidade
 owner: "Me-CDPD"         # Entre as aspas escrever o nome do owner do website
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
